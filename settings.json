@@ -1,0 +1,108 @@
+{
+  "[javascriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.stylelint": true
+    },
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.stylelint": true
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "tslint.enable": false,
+  "auto-close-tag.SublimeText3Mode": true,
+  "auto-close-tag.fullMode": true,
+  "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
+  "cSpell.language": "en,pt,pt-BR",
+  "css.validate": false,
+  "editor.accessibilitySupport": "off",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.inlineSuggest.enabled": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.associations": {
+    "*.tsx": "typescript",
+    "*.ts": "javascript"
+  },
+  "git.autofetch": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": false,
+    "javascript": true,
+    "javascriptreact": true,
+    "typescript": true,
+    "typescriptreact": true
+  },
+  "less.validate": false,
+  "redhat.telemetry.enabled": true,
+  "scss.validate": false,
+  "stylelint.config": {},
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "terminal.integrated.gpuAcceleration": "off",
+  "workbench.colorTheme": "Abyss",
+  "yaml.schemas": {
+    "file:///Users/diegosantos/.vscode/extensions/atlassian.atlascode-3.0.2/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "editor.formatOnPaste": true,
+  "cSpell.userWords": [
+    "axios",
+    "calendario",
+    "camelcase",
+    "configuracoes",
+    "countchar",
+    "datetime",
+    "errormessage",
+    "haserror",
+    "lcov",
+    "linebreak",
+    "lintfix",
+    "Nuxt",
+    "nuxtjs",
+    "stylelint",
+    "testid",
+    "vuejs"
+  ],
+  "workbench.iconTheme": "material-icon-theme",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "gitlens.views.remotes.branches.layout": "list",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "jest.jestCommandLine": "npm run test --",
+  "git.confirmSync": false,
+  "jest.autoRun": {
+    "watch": false,
+    "onSave": "test-only"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
